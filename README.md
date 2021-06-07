@@ -5,7 +5,7 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 
 ## Notebooks 
 
-[1.Introducción y Regresión simple](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/1_Introduccion_y_OLS_Departamentos)
+[1.Introducción y Regresión simple](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/1_Introduccion.ipynb)
 
 
 ## Otros
