@@ -6,6 +6,7 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 ## Notebooks 
 
 [1.Introducción y Regresión simple](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/1_Introduccion.ipynb)
+
 [2.Ajuste, Test de Hipótesis y propiedades del error](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)
 
 
