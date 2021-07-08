@@ -11,5 +11,7 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 
 [3. Transformación forma funcional e introducción regresión múltiple](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/OLS_3_Transformaciones_Dummies_RegMultiple.ipynb)
 
+[4. Ejemplos de Regresión Múltiple](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/Ejemplos_Regresion_Multiple.ipynb)
+
 ## Otros
 [Campus virtual (Restringido alumnos UTDT)](https://campusvirtual.utdt.edu/course/view.php?id=1497#)
