@@ -9,6 +9,7 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 
 [2.Ajuste, Test de Hipótesis y propiedades del error](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/OLS_2_Ajuste_Propiedades_Test_de_Hip%C3%B3tesis.ipynb)
 
+[3. Transformación forma funcional e introducción regresión múltiple](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/OLS_3_Transformaciones_Dummies_RegMultiple.ipynb)
 
 ## Otros
 [Campus virtual (Restringido alumnos UTDT)](https://campusvirtual.utdt.edu/course/view.php?id=1497#)
