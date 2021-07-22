@@ -13,5 +13,7 @@ Los notebooks son creados en google colaboratory de manera de minimizar requerim
 
 [4. Ejemplos de Regresión Múltiple](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/Ejemplos_Regresion_Multiple.ipynb)
 
+[5. Modelos de Clasificacion](https://github.com/rpasquini/metodos_cuantitativos_2021/blob/main/5_Modelos_de_Clasificacion.ipynb)
+
 ## Otros
 [Campus virtual (Restringido alumnos UTDT)](https://campusvirtual.utdt.edu/course/view.php?id=1497#)
